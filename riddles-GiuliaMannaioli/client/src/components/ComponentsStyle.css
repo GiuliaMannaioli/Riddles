@@ -1,0 +1,56 @@
+.bg-light {
+    --bs-bg-opacity: none;
+}
+
+.row>* {
+    padding: none;
+}
+
+
+.navCourse {
+    background-color:#D6F9C9;
+    box-sizing:border-box; 
+
+}
+
+.table>:not(caption)>*>* {
+    padding: 0.5rem 0.5rem;
+    background-color: white;
+    border-bottom-width: 1px;
+}
+
+.loginform{
+
+    margin-top: 10px;
+
+}
+.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before{
+margin-top: 10px;
+}
+
+.btn-light {
+    color: rgb(0 0 0 / 62%);
+    margin: 2px;
+}
+.form-label {
+    margin-bottom: 0.5rem;
+    margin-top: 1em;
+}
+.formLogin{
+    
+    padding: 30px 0;
+    margin: 0 auto;
+    max-width: 320px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+.add{
+    border-radius: 50%;
+    border: 1px;
+  }
+  
+.log{
+    margin: 1em;
+}
